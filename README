@@ -1,0 +1,9 @@
+AnTuTu3D测试模块APK 使用及准备如下
+1:安装＂AnTutu3D_Test_out.apk＂，＂antutu_benchmark_v6_3d_f1.apk＂，＂antutu-benchmark-v6.apk＂,请下载:
+链接: https://pan.baidu.com/s/1hsE96QS 密码: zqu5
+2:在桌面应用中找到刚才安装的第一个应用＂AnTutu3D_Test＂点击并启动
+3：启动后界面见下图
+4：准备开始测试点击"start"按钮，该步骤开始已经进入自动测试AnTuTu3D(AnTutu3D_Test_out.apk启动AnTuTu3D应用)
+5:进入AnTuTu3D测试界面如下图，(当前步骤不需要点击'开始测试按钮')从点击"start"按钮至跳转到"开始测试"并开始跑测试首次需要7秒中，从第二轮测试开始每隔10秒会触发一次"开始测试"按钮
+6:成功进入测试界面截图如下
+7:如果需要结束自动测试AnTuTu3D模块，请务必back退出测试界面并用遥控器点击AnTutu3D_Test_out应用的'Stop'按钮
